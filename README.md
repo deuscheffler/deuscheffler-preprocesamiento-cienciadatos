@@ -11,9 +11,13 @@ Incluye pasos como limpieza, transformación, normalización, manejo de valores 
 preprocesamiento-cienciadatos/
 │
 ├── data/                 # Conjuntos de datos sin procesar y procesados
+
 │   ├── raw/              # Datos originales
+
 │   └── processed/        # Datos limpios y transformados
+
 │
 ├── .gitignore            # archivos excluidos para subir a GIT
+
 │
 └── README.md             # Descripción general del proyecto
